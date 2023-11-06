@@ -1,0 +1,173 @@
+.continar{
+   border-bottom: 2px solid red;     
+}
+#img{
+    margin-left: 90%;
+    margin-top: 1%;
+    width: 150px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#google{
+    width: 5%;
+    margin-bottom: 40;
+
+    
+}
+#google:hover{
+    background-color: rgb(81, 77, 72);
+}
+#img-lb{
+    width: 5%;
+    margin-bottom: 40;
+
+}
+#img-lb:hover{
+    background-color: rgb(82, 77, 72);
+}
+#p-f{
+    margin-left: 70%;
+}
+#p1{
+    margin-left: 80%;
+}
+.firsbox{
+    margin-left: 40%;
+display:inline-flex;
+}
+#txt{
+    margin: 10px;
+    width: 300px;
+}
+.firstbox{
+    margin-left: 45%;
+    display:inline-flex;
+}
+#txt{
+    margin: 10px;
+    width: 300px;
+}
+.fitbox{
+    margin-left: 43.4%;
+    display:inline-flex;
+}
+#txt{
+    margin: 10px;
+    width: 300px;
+}
+
+.s-btn {
+    border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	background: #4285f4;
+	color: #fff;
+	padding: 7px 12px;
+	border-radius: 3px;
+	margin-left: 7px;
+	cursor: pointer;
+    margin-left: 60%;
+}
+
+
+
+
+
+
+
+
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	margin-right: 30px;
+	margin-top: 14px;
+}
+nav a {
+	font-size: 13px;
+	display: inline-block;
+	line-height: 24px;
+	font-weight: 400;
+	color: rgb(0,0,0, 0.87);
+	cursor: pointer;
+	padding: 5px 6.7px
+}
+nav a:hover {
+	text-decoration: underline;
+	opacity: .85;
+}
+nav img {
+	width: 34px;
+	padding: 5px;
+	margin: auto 7px;
+	cursor: pointer;
+}
+nav img:hover {
+	opacity: .8;
+}
+nav button {
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	background: #4285f4;
+	color: #fff;
+	padding: 7px 12px;
+	border-radius: 3px;
+	margin-left: 7px;
+	cursor: pointer;
+}
+.section-1 {
+	flex: 1;
+}
+.section-1 .logo {
+	display: block;
+	margin: 0px auto;
+	margin-top: 107px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    margin-top: 16%;
+	background: #f2f2f2;
+}
+footer h4 {
+	color: rgba(0,0,0, 0.54);
+	font-size: 15px;
+	line-height: 39.5px;
+	font-weight: 400;
+	padding-left: 29px;
+	border: 1px solid #eee;
+}
+footer a {
+	color: #5f6368;
+	display: inline-block;
+	padding: 12px 11.3px;
+	font-size: 14px;
+}
+footer a:hover {
+	text-decoration: underline;
+}
+.links {
+	border-top: 1px solid #ddd;
+	display: flex;
+}
+.link-1 {
+	padding-left: 18.7px;
+	flex: 1;
+}
+.link-2 {
+	padding-right: 18.7px;
+}
